@@ -1,6 +1,6 @@
 # Most-Efficient-Spells
 
-*Note:  To actually view step by step instructions on how to run the program, please view the readMeFiles folder.* 
+*Note:  To actually view step by step instructions on how to run the program, please view the readMeFiles folder. In addition I also made a video on to use the program and explain how it works: https://www.youtube.com/watch?v=-HUoeWlMr8E*
 
 **Concepts Explored in Program**
 
