@@ -1,0 +1,18 @@
+Breif Video Walkthrough of my Program: https://www.youtube.com/watch?v=-HUoeWlMr8E
+
+My program follows a certain set of rules I made and I use them to be as consistent as possible in my calculations.
+1. This program looks at a single spell in isolation. It does not take into account passives and enemy resistances. We only look at straight damage. 
+2. Champion abilities that come from their R do not count. (ex. Nidalee, Karma, Kha'Zix). The R is seen as an isolated ability, so if the Q and R interact, that 
+interaction would be nullified. 
+3. Mana is always unlimited. Energy does not regen.
+4. Certain auto attack based abilities do not count (ex. Vayne W, Annie E, Tryndamere Q)  because they require attack speed calculations which is not part of the program. 
+5. Hybrid ratios are calculated.
+6. The only type of damage that this program doesn't account for is damage based on health (sorry Mundo). 
+7. A base AD is given to every champion to calculate total Attack Damage. 
+8. Base AP is always zero. 
+9. We assume no runes/masteries. 
+
+
+Keep being awesome
+
+-Farzain Majeed
