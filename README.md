@@ -4,6 +4,7 @@
 
 *Note:  To actually view step by step instructions on how to run the program, please view the readMeFiles folder. In addition I also made a video on to use the program and explain how it works: https://www.youtube.com/watch?v=-HUoeWlMr8E*
 *Note 2: Still need to add error codes*
+*Note 3: Please use your own API Key*
 
 **Concepts Explored in Program**
 
