@@ -2,7 +2,8 @@
 
 
 
-*Note:  To actually view step by step instructions on how to run the program, please view the readMeFiles folder. In addition I also made a video on to use the program and explain how it works: https://www.youtube.com/watch?v=-HUoeWlMr8E*
+*Note0: I have not ran or updated this app as of 9/21/16. Run at your own risk!
+*Note1:  To actually view step by step instructions on how to run the program, please view the readMeFiles folder. In addition I also made a video on to use the program and explain how it works: https://www.youtube.com/watch?v=-HUoeWlMr8E*
 *Note 2: Still need to add error codes*
 *Note 3: Please use your own API Key*
 
